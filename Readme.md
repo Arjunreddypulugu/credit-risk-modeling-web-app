@@ -1,9 +1,10 @@
-# **Documentation for `utils.py`**
 
 ## **Overview**
 This project provides a utility script to support a credit scoring system built using a machine learning model. The script includes functions to preprocess input data, make predictions, and calculate credit scores based on the probability of default. The utilities are designed to be modular, scalable, and easy to integrate into a larger credit risk evaluation pipeline.
 
 The predictive model is trained to estimate the likelihood of loan default, and the output credit score aligns with industry standards, ranging from 300 (low creditworthiness) to 900 (excellent creditworthiness). This utility script plays a crucial role in preparing data, making predictions, and providing actionable insights.
+
+Demo: [https://credit-risk-modeling-web.streamlit.app/]
 
 ---
 
